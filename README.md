@@ -1,4 +1,4 @@
-# cat_dog_classifier
+# Plant Leaf Disease Classifier
 
 A new Flutter project.
 
